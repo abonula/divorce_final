@@ -78,7 +78,7 @@ nav.scrolled { border-bottom-color: var(--rule); }
 
 nav .wrap {
   display: flex; align-items: center; justify-content: space-between;
-  padding-top: 18px; padding-bottom: 18px;
+  padding-top: 12px; padding-bottom: 12px;
 }
 
 .logo-link {
@@ -86,8 +86,7 @@ nav .wrap {
   text-decoration: none;
 }
 .logo-img {
-  height: 52px; width: auto; display: block;
-  /* transparent PNG — no background needed */
+  height: 68px; width: auto; display: block;
 }
 .logo-text {
   font-family: var(--serif);
